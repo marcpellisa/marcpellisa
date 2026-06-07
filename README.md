@@ -8,11 +8,11 @@ Over the last few years, I've worked on engineering projects, data analysis, pro
 
 Here you'll find the projects I build while learning and growing in:
 
-🐍 Python
-💻 Software Development
-📊 Data & Automation
-🤖 Artificial Intelligence
-🚀 Product Engineering
+🐍 Python  
+💻 Software Development  
+📊 Data & Automation  
+🤖 Artificial Intelligence  
+🚀 Product Engineering  
 
 My goal is to combine my engineering background with modern technologies to build useful products, solve real-world problems, and stay at the forefront of innovation.
 
